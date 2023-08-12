@@ -1,0 +1,47 @@
+body {
+  margin: 5rem;
+  background-color: #91c8e4;
+}
+#profileing {
+  width: 40px;
+  height: 40px;
+  align-items: center;
+  border-radius: 10px;
+}
+#dot {
+  color: black;
+  font-weight: bold;
+  margin-top: 5px;
+  text-decoration: none;
+  margin-right: 15px;
+}
+#root {
+  border-radius: 50px;
+  background-color: #30a2ff;
+}
+#rightbar {
+  border-radius: 30px;
+  margin: 0px;
+  padding: 3rem 0;
+  justify-content: center;
+  background-color: #ecf8f9;
+}
+
+#sidebar {
+  background-color: #30a2ff;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  height: 100%;
+  margin: 0px;
+  padding: 1rem 0;
+  justify-content: center;
+}
+.gridicon {
+  color: white;
+  width: 30px;
+  height: 30px;
+  background-color: #30a2ff;
+  text-align: center;
+  padding-top: 5px;
+  border-radius: 10px;
+}
